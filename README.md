@@ -2,7 +2,7 @@
 
 Solving **4+ problems every day** on LeetCode / Codeforces and pushing solutions here.
 
-**Start Date:** 19 May 2026
+**Start Date:** 20 May 2026
 
 ---
 
@@ -25,7 +25,7 @@ Day-02/
 
 | Day | Date | Problems Solved |
 |-----|------|-----------------|
-| 01 | 19 May 2026 | 4 |
+| 01 | 20 May 2026 | 4 |
 
 
 ---
