@@ -1,0 +1,5 @@
+1. LC problem no 143 
+https://leetcode.com/problems/reorder-list/description/
+
+2. LC problem no 2540
+https://leetcode.com/problems/minimum-common-value/description/
