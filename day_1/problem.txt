@@ -3,3 +3,9 @@ https://leetcode.com/problems/reorder-list/description/
 
 2. LC problem no 2540
 https://leetcode.com/problems/minimum-common-value/description/
+
+3. CF problem 1845A
+https://codeforces.com/problemset/problem/1845/A
+
+4.CF problem 1873C
+https://codeforces.com/problemset/problem/1873/C
