@@ -1,0 +1,8 @@
+1. LC problem no 2657
+https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/?envType=daily-question&envId=2026-05-20
+
+2. LC problem no 2130
+https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description/
+
+3.LC problem no 1721
+https://leetcode.com/problems/swapping-nodes-in-a-linked-list/
