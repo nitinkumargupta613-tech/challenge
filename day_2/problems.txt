@@ -6,3 +6,6 @@ https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description/
 
 3.LC problem no 1721
 https://leetcode.com/problems/swapping-nodes-in-a-linked-list/
+
+4. LC problem no 24
+https://leetcode.com/problems/swap-nodes-in-pairs/submissions/2008418840/
