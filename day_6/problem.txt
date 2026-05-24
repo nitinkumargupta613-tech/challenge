@@ -1,0 +1,13 @@
+1.https://leetcode.com/problems/construct-product-matrix/description/
+
+2.https://leetcode.com/problems/split-linked-list-in-parts/
+
+3.https://leetcode.com/problems/odd-even-linked-list/description/
+
+4.https://leetcode.com/problems/password-strength/description/
+
+5.https://leetcode.com/problems/limit-occurrences-in-sorted-array/description/
+
+6.https://codeforces.com/contest/1859/problem/A
+
+7.https://codeforces.com/contest/1862/problem/B
