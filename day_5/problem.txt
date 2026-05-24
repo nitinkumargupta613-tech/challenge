@@ -1,0 +1,7 @@
+1.https://leetcode.com/problems/minimum-swaps-to-move-zeros-to-end/
+
+2.https://leetcode.com/problems/minimum-operations-to-make-array-modulo-alternating-i/
+
+3.https://codeforces.com/contest/2229/problem/A
+
+4.https://codeforces.com/contest/2229/problem/B

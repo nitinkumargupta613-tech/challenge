@@ -1,0 +1,7 @@
+1. https://codeforces.com/contest/2230/problem/A
+
+2.https://codeforces.com/problemset/problem/1805/A
+
+3.https://leetcode.com/problems/minimum-string-length-after-balanced-removals/
+
+4.https://leetcode.com/problems/contains-duplicate-ii/description/
