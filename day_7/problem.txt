@@ -1,0 +1,17 @@
+1.https://leetcode.com/problems/sort-list/description/
+
+2.https://leetcode.com/problems/build-an-array-with-stack-operations/description/
+
+3.https://leetcode.com/problems/string-compression/description/
+
+4.https://leetcode.com/problems/house-robber/description/
+
+5.https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/
+
+6.https://leetcode.com/problems/the-kth-factor-of-n/description/
+
+7.https://codeforces.com/contest/1373/problem/B
+
+8.https://codeforces.com/contest/1475/problem/A
+
+9.https://codeforces.com/contest/1440/problem/B
