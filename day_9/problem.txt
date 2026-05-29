@@ -1,0 +1,13 @@
+1.https://leetcode.com/problems/spiral-matrix-iv/
+
+2.https://leetcode.com/problems/trapping-rain-water/description/
+
+3.https://leetcode.com/problems/first-missing-positive/description/
+
+4.https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/
+
+5.https://leetcode.com/problems/validate-stack-sequences/description/
+
+6.https://leetcode.com/problems/count-the-number-of-special-characters-ii/description/
+
+7.https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/description/

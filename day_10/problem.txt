@@ -1,0 +1,15 @@
+1.https://leetcode.com/problems/find-and-replace-pattern/description/
+
+2.https://leetcode.com/problems/sum-of-subarray-minimums/description/
+
+3.https://leetcode.com/problems/sum-of-subarray-ranges/
+
+4.https://leetcode.com/problems/asteroid-collision/description/
+
+5.https://leetcode.com/problems/closest-prime-numbers-in-range/
+
+6.https://leetcode.com/problems/count-good-numbers/
+
+7.https://leetcode.com/problems/maximum-score-from-removing-substrings/
+
+8.https://leetcode.com/problems/largest-rectangle-in-histogram/description/
