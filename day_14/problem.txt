@@ -1,0 +1,7 @@
+1.https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/description/
+
+2.https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/
+
+3.https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/description/
+
+4.https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/

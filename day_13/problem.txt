@@ -1,0 +1,7 @@
+1.https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/description/
+
+2.https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/
+
+3.https://leetcode.com/problems/koko-eating-bananas/
+
+4.https://codeforces.com/contest/2232/problem/B
